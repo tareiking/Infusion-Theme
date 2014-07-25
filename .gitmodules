@@ -7,3 +7,6 @@
 [submodule "plugins/WP-Infusion-Recent-Posts"]
 	path = plugins/WP-Infusion-Recent-Posts
 	url = https://github.com/tareiking/WP-Infusion-Recent-Posts
+[submodule "themes/WP-Infusion-Flair-Theme"]
+	path = themes/WP-Infusion-Flair-Theme
+	url = https://github.com/tareiking/WP-Infusion-Flair-Theme
